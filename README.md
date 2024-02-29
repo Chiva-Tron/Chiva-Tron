@@ -3,7 +3,7 @@
 Soy Esteban Moreyra, desarrollador de aplicaciones móviles y web.
 
 ## Sobre mí
-- 💼 Trabajo como dev movile en Rolamax SA desde 2023.
+- 💼 Trabajo como dev movile en Rolamax SA desde 2022.
 - 💻 Tengo experiencia en el desarrollo de aplicaciones móviles nativas con React Native y en la creación de aplicaciones web con Next.js.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías en el mundo de la programación.
 
@@ -12,6 +12,14 @@ Soy Esteban Moreyra, desarrollador de aplicaciones móviles y web.
 - React
 - Next.js
 - Typescript
+- Tailwind CSS
+- Expo SDK
+- HTML/CSS
+- Git
+- Notion
+- Kotlin
+- Swift
+- php (Laravel)
 
 ## Me encontrás:
 
